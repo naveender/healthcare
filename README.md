@@ -79,7 +79,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ```bash
 git clone https://github.com/naveender/healthcare.git
-cd healthcare-api
+cd healthcare
 composer install
 cp .env.example .env
 php artisan key:generate
